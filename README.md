@@ -1,4 +1,4 @@
-# Tic Tac Toe AI (Minimax)
+# Tic-Tac-Toe AI (Minimax)
 
 ## Overview
 
